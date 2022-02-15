@@ -1,11 +1,14 @@
+//sum of two numbers
 #include<stdio.h>
-/*int main()
+int main()
 {
 int a=2,b=2,sum=0;
 sum=a+b;
 printf("sum of the numbers is :%d\n",sum);
 return 0;
 }
+//sample code
+#include<stdio.h>
 int main()
 {
     int i;
@@ -16,6 +19,7 @@ int main()
     return 0;
     }
 }
+//largest of three numbers
 int main()
 {
     int num1=1 ,num2=0 ,num3=2;
@@ -31,7 +35,8 @@ int main()
 	}
     }
     return 0;
-}*/
+}
+//check underflow
 int main()
 {
     int a=2147483648;
